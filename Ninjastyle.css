@@ -10,6 +10,7 @@ body {
   color: gray;
   text-align: center;
   font-family: monserrat, Sans-Serif;
+  font-size: clamp(18px 4vw 24px);
 }
 .ninja {
   width: 80%;       /* scales with screen width */
@@ -23,9 +24,10 @@ body {
 button {
   display: block;
   margin: 30px auto; /* centers button horizontally */
-  padding: 10px 20px;
+  padding: clamp(10px 2vw 20px);
   border-radius: 5px;
   border: none;
   color: red;
   background-color: black;
+  font-size: clamp(14px 2vw 20px);
 }
