@@ -24,7 +24,7 @@ body {
 button {
   display: block;
   margin: 30px auto; /* centers button horizontally */
-  padding: clamp(12px 8vw 22px);
+  padding: clamp(30px 20vw 38px);
   border-radius: 5px;
   border: none;
   color: red;
