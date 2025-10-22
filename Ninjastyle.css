@@ -13,7 +13,7 @@ body {
 }
 .ninja {
   width: 50%;       /* scales with screen width */
-  max-width: 80%
+  max-width: 50%
   height: auto;     /* maintain aspect ratio */
   display: block;
   margin: 30px auto; /* centers image horizontally */
