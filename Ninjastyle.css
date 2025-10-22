@@ -12,7 +12,7 @@ body {
   font-family: monserrat, Sans-Serif;
 }
 .ninja {
-  width: 80%;       /* scales with screen width */
+  width: 50%;       /* scales with screen width */
   max-width: 80%
   height: auto;     /* maintain aspect ratio */
   display: block;
