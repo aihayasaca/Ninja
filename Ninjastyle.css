@@ -10,7 +10,7 @@ body {
   color: gray;
   text-align: center;
   font-family: monserrat, Sans-Serif;
-  font-size: 7vh;
+  font-size: 7vw;
 }
 .ninja {
   width: 80%;       /* scales with screen width */
