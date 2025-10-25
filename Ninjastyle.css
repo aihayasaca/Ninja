@@ -27,9 +27,8 @@ button {
   margin: 30px auto; /* centers button horizontally */
   width: 15%;
   height: 5%;
-  border-radius: 10px;
+  border-radius: 15px;
   border: none;
-  color: white;
-  background-color: black;
+  color: Black;
   font-size: 26px;
 }
