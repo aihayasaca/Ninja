@@ -7,7 +7,7 @@ body {
   overflow-x: hidden;           /* prevent horizontal scrolling */
 }
 .heading {
-  color: Black;
+  color: white;
   text-align: center;
   font-family: monserrat, Sans-Serif;
   font-size: 10vw;
