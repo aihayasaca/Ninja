@@ -28,7 +28,6 @@ button {
   width: 15%;
   height: 5%;
   border-radius: 15px;
-  border: none;
-  color: Black;
+  border: solid black;
   font-size: 26px;
 }
